@@ -1,0 +1,3 @@
+Infix expression: (9+(8*7-(6/5^4)*3)*2)
+Postfix expression: 987*654^/3*-2*+
+Evaluation: 120.96484375
